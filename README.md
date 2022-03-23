@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chase
-- 👀 I’m learning 100days of code (Python)
-- 🌱 I’m currently learning Data Engineering in TAFE since 2021
+- 👀 I’m learning JavaScript to be a full stack developer
+- 🌱 I’m currently working in data entry position in ICURE (Samsung repair center)
 - 📫 Email: devchase0115@gmail.com
 
 <!---
