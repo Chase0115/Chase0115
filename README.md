@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chase
-- 👀 I’m learning JavaScript to be a full stack developer
-- 🌱 I’m currently working in data entry position in ICURE (Samsung repair center)
+- 👀 I’m learning React.js with TypeScript
+- 🌱 I’m currently working in a data entry position.
 - 📫 Email: devchase0115@gmail.com
 
 <!---
