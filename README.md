@@ -6,8 +6,8 @@ My learning curve is following Front-end developer Roadmap (https://roadmap.sh/f
 
 * 🔥I love to make project with **React, CSS** at the moment
 * 🔥Learning **Figma, TypeScript** to build better UI/UX and clean code
-* 🔥Spending 2-3 hours on **coding and learning** after work
-* Happy to *play basket ball and fishing*
+* 🔥Spending 3-4 hours on **coding and learning** after work
+* Happy to *play basket ball and go fishing*
 * Open to work
 
 
@@ -32,14 +32,14 @@ My learning curve is following Front-end developer Roadmap (https://roadmap.sh/f
 |Things|Progression|What I've learned (**will learn**)|
 |:--:|:--:|:--:|
 |HTML|✅|Basic|
-|css|✅|Basic, Layout-flexbox,display, positioning |
-|CSS preprocessors|🏃|PostCSS, (**Sass**)|
+|css|✅|Basic, Layout-flexbox, grid |
+|CSS preprocessors|✅|styled-components, css module|
 |CSS Frameworks|👀|(**Tailwind CSS, Bootstrap**)|
 |JavaScript|✅|basic, syntax, DOM manipulation, ES6+, (**Ajax**)|
 |Version Control Syste|🏃|git, github|
 |Pakage managers|🏃|yarn, npm|
 |Build Tools|🏃|Prettier, ESLint, (**Webpack**)|
-|JS Framework|🏃|React, (**TypeScript**)|
+|JS Framework|✅|React, TypeScript|
 |Server Side Rendering|👀|(**Next.js**)|
 |GraphQL|👀|(**Apollo**)|
 |Mobile|👀|(**ReactNative**)|
