@@ -4,7 +4,7 @@ I'm from **South Korea**, currently living in Sydney, **Australia** 🦘<br/>
 My learning curve is following Front-end developer Roadmap (https://roadmap.sh/frontend)
 
 
-* 🔥I love to make project with **React, CSS** at the moment
+* 🔥I love to make projects with **React, CSS** at the moment
 * 🔥Learning **Figma, TypeScript** to build better UI/UX and clean code
 * 🔥Spending 3-4 hours on **coding and learning** after work
 * Happy to *play basket ball and go fishing*
