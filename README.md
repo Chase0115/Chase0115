@@ -1,7 +1,6 @@
 # Hi, I'm Chase
 Welcome to my Page! 😎🖐️<br/>
-I am a front-end developer with a passion for creating beautiful and user-friendly websites. 
-I have been building a few projects with React.js, TypeScript, Next.js, express.js, My SQL.
+As a Junior Front End Developer, I am skilled in React, Tailwind CSS, TypeScript, HTML, CSS, and JavaScript. I have experience using Git and GitHub as a part of a development team, and I use Visual Studio Code as my primary code editor. I am passionate about learning and can quickly adapt to new technologies by devoting 2-3 hours of coding practice after work, five days a week. I also value spending quality time with my wife.Although I did not complete my Bachelor's degree at TAFE, I gained foundational knowledge in Python, Linux, networks, and databases, including MySQL. I am eager to enhance my skills and contribute to the growth of the team. I am confident that I would be a valuable asset to any organization, and I look forward to the opportunity to demonstrate my abilities as a front end developer.
 
 <br/>
 
