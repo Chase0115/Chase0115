@@ -1,15 +1,9 @@
-# Hi, I'm Chase
-Welcome to my Page! 😎🖐️<br/>
-As a Junior Front End Developer, I am skilled in React, Tailwind CSS, TypeScript, HTML, CSS, and JavaScript. I have experience using Git and GitHub as a part of a development team, and I use Visual Studio Code as my primary code editor. I am passionate about learning and can quickly adapt to new technologies by devoting 2-3 hours of coding practice after work, five days a week. I also value spending quality time with my wife.Although I did not complete my Bachelor's degree at TAFE, I gained foundational knowledge in Python, Linux, networks, and databases, including MySQL. I am eager to enhance my skills and contribute to the growth of the team. I am confident that I would be a valuable asset to any organization, and I look forward to the opportunity to demonstrate my abilities as a front end developer.
+#Hi, I'm Chase
+Welcome to my Page! 🚀🌐
 
+As a Network Engineer and CCNA-certified professional, I specialize in designing, configuring, and maintaining robust network infrastructures. Currently in my 3rd year at Western Sydney University, I am deepening my technical expertise while bridging the gap between academic theory and enterprise-level networking.
+
+My technical toolkit includes a strong command of Cisco IOS, Routing & Switching, and Network Security. Beyond core infrastructure, I am proficient in Python (for network automation), Linux, and MySQL, allowing me to manage databases and streamline workflows through scripting. I have hands-on experience using Git and GitHub for version control within collaborative environments and rely on VS Code for my automation projects.
+
+I am a firm believer in continuous growth. After work, I dedicate 2–3 hours to labbing and staying current with evolving technologies five days a week, ensuring my skills remain sharp in an ever-changing landscape.
 <br/>
-
-## Things I code with
----
-![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=CSS3&logoColor=ffffff)
-![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-F7DF1C?style=for-the-badge&logo=JAVASCRIPT&logoColor=ffffff)
-![REACT](https://img.shields.io/badge/-REACT-222222?style=for-the-badge&logo=REACT&logoColor=ffffff)
-![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-308DFF?style=for-the-badge&logo=TYPESCRIPT&logoColor=ffffff)
-![GIT](https://img.shields.io/badge/-GIT-EA2845?style=for-the-badge&logo=GIT&logoColor=ffffff)
-![VSCODE](https://img.shields.io/badge/-VSCODE-0475B6?style=for-the-badge&logo=visualStudio&logoColor=ffffff)
